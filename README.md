@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WithPaulYT
+- 👀 I’m interested in videogames and TIC´s
+- 🌱 I’m currently learning about python and commands of terminal
